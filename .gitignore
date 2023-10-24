@@ -1,2 +1,4 @@
 .venv
 .envs
+
+db.sqlite3
